@@ -100,22 +100,22 @@ https://raw.githubusercontent.com/prasoyt08/live/main/rodjatv.m3u8
 EXTINF:-1 group-title="Premium Channels" tvg-logo="",
 
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",AXN
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",AXN
 https://raw.githubusercontent.com/prasoyt08/live/main/axn.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Biosop
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Biosop
 https://raw.githubusercontent.com/prasoyt08/live/main/citrabioskop.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Dangdut
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Dangdut
 https://raw.githubusercontent.com/prasoyt08/live/main/citradangdut.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Drama
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Drama
 https://raw.githubusercontent.com/prasoyt08/live/main/citradrama.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Entertaiment
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Entertaiment
 https://raw.githubusercontent.com/prasoyt08/live/main/citraentertainment.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Muslim
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Muslim
 https://raw.githubusercontent.com/prasoyt08/live/main/citramuslim.m3u8
 
 =HITS=
@@ -175,7 +175,6 @@ https://raw.githubusercontent.com/prasoyt08/live/main/rockentertaiment.m3u8
 
 =ROCK ACTION=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/652f763c1fcddfc32c6860de_logo_act_web.png",ROCK ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/prasoyt08/live/main/rockaction.m3u8
 
 =ZEE BIOSKOP=
