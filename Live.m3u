@@ -39,8 +39,8 @@ https://raw.githubusercontent.com/prasoyt08/live/main/sctv.m3u8
 
 =INDOSIAR=
 EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",INDOSIAR
-https://raw.githubusercontent.com/prasoyt08/live/main/indosiar.m3u8
-#http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+#https://raw.githubusercontent.com/prasoyt08/live/main/indosiar.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 =TRANS7=
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://e7.pngegg.com/pngimages/283/746/png-clipart-trans7-indonesia-trans-tv-streaming-media-television-trans-march-purple-blue.png",TRANS7
