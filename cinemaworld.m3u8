@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
