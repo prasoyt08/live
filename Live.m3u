@@ -198,10 +198,10 @@ https://raw.githubusercontent.com/prasoyt08/live/main/spotv2.m3u8
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",nickelodeon
 https://raw.githubusercontent.com/prasoyt08/live/main/nikelodeon.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",ANIMAX
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",ANIMAX
 https://raw.githubusercontent.com/prasoyt08/live/main/animax.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",HBO
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",HBO
 https://raw.githubusercontent.com/prasoyt08/pm/main/hbo.m3u8
 
 
@@ -241,5 +241,5 @@ https://raw.githubusercontent.com/prasoyt08/live/main/animalplanet.m3u8
 https://raw.githubusercontent.com/prasoyt08/live/main/dw.m3u8
 
 =DISCOVERY=
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",DISCOVERY
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",DISCOVERY
 https://raw.githubusercontent.com/prasoyt08/live/main/discoveryasia.m3u8
