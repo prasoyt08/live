@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://http://localhost:8096/web/index.html?#!/videoosd/videoosd.html
+http://localhost:8096/emby/videos/263/main.m3u8?DeviceId=4637e151-5792-483d-bbab-c387eb448572&MediaSourceId=7dccfe384ff1b9ab1c796694e167e01d&StartTimeTicks=137460550&PlaySessionId=1e474a9d5fd04923a09b467aca64dceb&api_key=53c2bc3d0e6548359e7e1c42bbf7d741&VideoCodec=h264,h265,hevc&AudioCodec=mp3,aac&VideoBitrate=272000&AudioBitrate=128000&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=m4s,ts&MinSegments=1&BreakOnNonKeyFrames=True&SubtitleStreamIndexes=-1&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&TranscodeReasons=ContainerBitrateExceedsLimit
