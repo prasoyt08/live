@@ -2,5 +2,4 @@
 #EXT-X-TARGETDURATION:65535
 #EXT-X-VERSION:2
 #EXTINF:65535,
-https://cdn-user.veed.io/render/5c59ea27-fed7-4a3d-a8cf-ae358dc10106.mp4
-#http://103.165.157.42:8080
+http://50.50.50.13:8080
